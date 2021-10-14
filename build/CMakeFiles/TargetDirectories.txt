@@ -1,0 +1,3 @@
+/Users/avneetsingh/n-body/build/CMakeFiles/rebuild_cache.dir
+/Users/avneetsingh/n-body/build/CMakeFiles/edit_cache.dir
+/Users/avneetsingh/n-body/build/CMakeFiles/n_body.dir
